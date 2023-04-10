@@ -1,0 +1,4 @@
+# add a file type to ignore - these files wont go to the remote when you commit
+# use the wildcard * to refer to any file with a particular file type
+# use the forward slash to refer to any directory
+
